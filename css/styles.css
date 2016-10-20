@@ -56,8 +56,14 @@
 	float: left;
 	display:inline-block;
 	width: 100%;
-	height: 200px;
+	height: auto;
 	border: solid 2px red;
+	overflow: hidden;
+}
+#graveYard img{
+	width: 25%;
+	height: auto;
+	opacity: 0.5;
 }
 .battleImg{
 	width: 100%;
